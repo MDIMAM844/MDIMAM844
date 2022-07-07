@@ -3,7 +3,7 @@
 <img align = "right" alt=" coding " width="400" src="https://image.shutterstock.com/image-vector/programmer-job-character-laptop-development-600w-1640132686.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdimam844&label=Profile%20views&color=0e75b6&style=flat" alt="mdimam844" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Youtube Cloning**
 

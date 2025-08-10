@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Imamuddin</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align = "right" alt=" coding " width="400" src="https://image.shutterstock.com/image-vector/programmer-job-character-laptop-development-600w-1640132686.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdimam844&label=Profile%20views&color=0e75b6&style=flat" alt="mdimam844" /> </p>
+<p align="left"> 
 
 - 🌱 I’m currently learning **MERN**
 
